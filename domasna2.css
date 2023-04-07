@@ -1,0 +1,46 @@
+body {
+  background-color: blanchedalmond;
+}
+
+.form {
+  margin: 0 auto;
+  width: 380px;
+  height: 450px;
+  background-color: lightblue;
+  font-family: sans-serif;
+  border-radius: 15px;
+}
+
+h3 {
+  text-align: center;
+  padding-top: 15px;
+}
+
+form {
+  width: 330px;
+  margin: 0 auto;
+}
+
+.checkbox {
+  width: 15px;
+  cursor: pointer;
+  margin: 20px 5px 20px 0;
+}
+
+.submit-btn {
+  font-size: 14px;
+  padding: 5px;
+  margin: 0 130px 5px 135px;
+}
+
+.submit-btn:hover {
+  font-size: 16px;
+  color: green;
+}
+
+input {
+  width: 100%;
+}
+textarea {
+  width: 100%;
+}

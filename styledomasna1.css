@@ -1,0 +1,12 @@
+* {
+  /*box-sizing: border-box; so border-box sirinata i visinata na content boxot e 301 x 51 */
+  box-sizing: content-box; /*so content-box komanda vkupnata sirina i visina na elementot e 389 x 99 */
+}
+
+.pravoagolnik {
+  width: 345px;
+  height: 75px;
+  border: 12px solid black;
+  background-color: lightblue;
+  padding: 0 10px;
+}
